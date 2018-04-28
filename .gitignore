@@ -1,5 +1,4 @@
 *.pyc
 __pycache__
-mydjango
-db.sqlite3
+myvenv
 .DS_Store
